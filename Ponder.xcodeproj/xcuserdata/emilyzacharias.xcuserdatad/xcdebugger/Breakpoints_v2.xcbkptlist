@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C6B4C4B7-8F3C-4BE9-94CE-63F056BCE986"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAF3AB0E-F9F1-4CA1-A451-62B566497430"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ponder/Views/MyPond.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "AAF3AB0E-F9F1-4CA1-A451-62B566497430 - 7cd9ac25fc83ec15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.position(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onTapGesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.CoordinateSpaceProtocol&gt;(count: Swift.Int, coordinateSpace: &#x3c4;_1_0, perform: (__C.CGPoint) -&gt; ()) -&gt; some&gt;&gt;.0 in Ponder.MyPond.body.getter : some"
+                  moduleName = "Ponder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emilyzacharias/Desktop/comp%20sci/Ponder/Ponder/Ponder/Views/MyPond.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1924">
+               </Location>
+               <Location
+                  uuid = "AAF3AB0E-F9F1-4CA1-A451-62B566497430 - 772147f5a982e1ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onTapGesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.CoordinateSpaceProtocol&gt;(count: Swift.Int, coordinateSpace: &#x3c4;_1_0, perform: (__C.CGPoint) -&gt; ()) -&gt; some&gt;&gt;.0 in Ponder.MyPond.body.getter : some"
+                  moduleName = "Ponder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emilyzacharias/Desktop/comp%20sci/Ponder/Ponder/Ponder/Views/MyPond.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1788">
+               </Location>
+               <Location
+                  uuid = "AAF3AB0E-F9F1-4CA1-A451-62B566497430 - 7cd9ac25fc83ec15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.position(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onTapGesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.CoordinateSpaceProtocol&gt;(count: Swift.Int, coordinateSpace: &#x3c4;_1_0, perform: (__C.CGPoint) -&gt; ()) -&gt; some&gt;&gt;.0 in Ponder.MyPond.body.getter : some"
+                  moduleName = "Ponder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emilyzacharias/Desktop/comp%20sci/Ponder/Ponder/Ponder/Views/MyPond.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1904">
+               </Location>
+               <Location
+                  uuid = "AAF3AB0E-F9F1-4CA1-A451-62B566497430 - 7cd9ac25fc83ec15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.position(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onTapGesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.CoordinateSpaceProtocol&gt;(count: Swift.Int, coordinateSpace: &#x3c4;_1_0, perform: (__C.CGPoint) -&gt; ()) -&gt; some&gt;&gt;.0 in Ponder.MyPond.body.getter : some"
+                  moduleName = "Ponder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emilyzacharias/Desktop/comp%20sci/Ponder/Ponder/Ponder/Views/MyPond.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1724">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFF61A36-6480-4EE6-B8F4-94AAEA4CEDC4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ponder/Views/MyPond.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "AFF61A36-6480-4EE6-B8F4-94AAEA4CEDC4 - 7cd9ac25fc83ec34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.position(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onTapGesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.CoordinateSpaceProtocol&gt;(count: Swift.Int, coordinateSpace: &#x3c4;_1_0, perform: (__C.CGPoint) -&gt; ()) -&gt; some&gt;&gt;.0 in Ponder.MyPond.body.getter : some"
+                  moduleName = "Ponder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emilyzacharias/Desktop/comp%20sci/Ponder/Ponder/Ponder/Views/MyPond.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1780">
+               </Location>
+               <Location
+                  uuid = "AFF61A36-6480-4EE6-B8F4-94AAEA4CEDC4 - 772147f5a982ff7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onTapGesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.CoordinateSpaceProtocol&gt;(count: Swift.Int, coordinateSpace: &#x3c4;_1_0, perform: (__C.CGPoint) -&gt; ()) -&gt; some&gt;&gt;.0 in Ponder.MyPond.body.getter : some"
+                  moduleName = "Ponder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emilyzacharias/Desktop/comp%20sci/Ponder/Ponder/Ponder/Views/MyPond.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1648">
+               </Location>
+               <Location
+                  uuid = "AFF61A36-6480-4EE6-B8F4-94AAEA4CEDC4 - 7cd9ac25fc83ec34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.position(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onTapGesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.CoordinateSpaceProtocol&gt;(count: Swift.Int, coordinateSpace: &#x3c4;_1_0, perform: (__C.CGPoint) -&gt; ()) -&gt; some&gt;&gt;.0 in Ponder.MyPond.body.getter : some"
+                  moduleName = "Ponder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emilyzacharias/Desktop/comp%20sci/Ponder/Ponder/Ponder/Views/MyPond.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1760">
+               </Location>
+               <Location
+                  uuid = "AFF61A36-6480-4EE6-B8F4-94AAEA4CEDC4 - 7cd9ac25fc83ec34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.position(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onTapGesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.CoordinateSpaceProtocol&gt;(count: Swift.Int, coordinateSpace: &#x3c4;_1_0, perform: (__C.CGPoint) -&gt; ()) -&gt; some&gt;&gt;.0 in Ponder.MyPond.body.getter : some"
+                  moduleName = "Ponder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emilyzacharias/Desktop/comp%20sci/Ponder/Ponder/Ponder/Views/MyPond.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1580">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6983BF3B-37CE-41D9-A9D0-54E61C25D2D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ponder/Views/MyPond.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "179"
+            endingLineNumber = "179"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6983BF3B-37CE-41D9-A9D0-54E61C25D2D6 - 7cd9ac25fc83f2a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.position(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onTapGesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.CoordinateSpaceProtocol&gt;(count: Swift.Int, coordinateSpace: &#x3c4;_1_0, perform: (__C.CGPoint) -&gt; ()) -&gt; some&gt;&gt;.0 in Ponder.MyPond.body.getter : some"
+                  moduleName = "Ponder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emilyzacharias/Desktop/comp%20sci/Ponder/Ponder/Ponder/Views/MyPond.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "2392">
+               </Location>
+               <Location
+                  uuid = "6983BF3B-37CE-41D9-A9D0-54E61C25D2D6 - 772147f5a982e1ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onTapGesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.CoordinateSpaceProtocol&gt;(count: Swift.Int, coordinateSpace: &#x3c4;_1_0, perform: (__C.CGPoint) -&gt; ()) -&gt; some&gt;&gt;.0 in Ponder.MyPond.body.getter : some"
+                  moduleName = "Ponder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emilyzacharias/Desktop/comp%20sci/Ponder/Ponder/Ponder/Views/MyPond.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1788">
+               </Location>
+               <Location
+                  uuid = "6983BF3B-37CE-41D9-A9D0-54E61C25D2D6 - 7cd9ac25fc83f262"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.position(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onTapGesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.CoordinateSpaceProtocol&gt;(count: Swift.Int, coordinateSpace: &#x3c4;_1_0, perform: (__C.CGPoint) -&gt; ()) -&gt; some&gt;&gt;.0 in Ponder.MyPond.body.getter : some"
+                  moduleName = "Ponder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emilyzacharias/Desktop/comp%20sci/Ponder/Ponder/Ponder/Views/MyPond.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "2440">
+               </Location>
+               <Location
+                  uuid = "6983BF3B-37CE-41D9-A9D0-54E61C25D2D6 - 7cd9ac25fc83f262"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.position(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onTapGesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.CoordinateSpaceProtocol&gt;(count: Swift.Int, coordinateSpace: &#x3c4;_1_0, perform: (__C.CGPoint) -&gt; ()) -&gt; some&gt;&gt;.0 in Ponder.MyPond.body.getter : some"
+                  moduleName = "Ponder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emilyzacharias/Desktop/comp%20sci/Ponder/Ponder/Ponder/Views/MyPond.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "2260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42B4C122-8262-4A47-9984-C18FCFAB29BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ponder/Views/MyPond.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D1E2F15-DC5A-45D0-ADA9-A7397278A3CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ponder/Views/MyPond.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
